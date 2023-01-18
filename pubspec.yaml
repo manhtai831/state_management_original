@@ -1,6 +1,6 @@
 name: state_management_original
 description: Package help manage state best
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/manhtai831/state_management_original
 
 environment:
