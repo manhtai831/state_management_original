@@ -1,7 +1,7 @@
 name: state_management_original
-description: A new Flutter package project.
+description: Package help manage state best
 version: 0.0.1
-homepage:
+homepage: https://github.com/manhtai831/state_management_original
 
 environment:
   sdk: '>=2.18.0 <3.0.0'
